@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objetivos para o Ano</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Objetivos para o Ano</h1>
+        <ul>
+            <li>Concluir o curso de programação</li>
+            <li>Praticar exercícios físicos pelo menos 3 vezes por semana</li>
+            <li>Ler pelo menos 12 livros durante o ano</li>
+            <li>Economizar uma quantia X de dinheiro</li>
+            <li>Aprender um novo idioma</li>
+            <li>Desenvolver habilidades de liderança no trabalho</li>
+        </ul>
+    </div>
+</body>
+</html>
